@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-26 13:18:24</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3c328e140f03320041bb65ba32050e7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_76508_innovate_innovate.x_76508_innovate_innovate_user</sys_name>
+        <sys_package display_value="Innovate" source="x_76508_innovate">3aa04ad00f03320041bb65ba32050e77</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate">3aa04ad00f03320041bb65ba32050e77</sys_scope>
+        <sys_security_acl display_value="x_76508_innovate_innovate">fc328e140f03320041bb65ba32050e7a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3c328e140f03320041bb65ba32050e7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-26 13:18:24</sys_updated_on>
+        <sys_user_role display_value="x_76508_innovate_innovate_user" name="x_76508_innovate_innovate_user">503286100f03320041bb65ba32050e9b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
